@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Apple___Apple_scab",
+        "cause": "Cause of Diseas: Fungus Venturia inaequalis. Favorable conditions are cool, wet weather.",
+        "cure": "Cure of Disease: Use fungicides and resistant apple varieties. Prune and destroy infected leaves.\n Accuracy of the model: 99.94853138923645%"
+       
+    },
+    {
+        "name": "Apple___Black_rot",
+        "cause": "Cause of Disease: Caused by the fungus Botryosphaeria obtusa.",
+        "cure": "Cure of Disease: Prune and remove infected areas. Apply fungicides during the growing season.\n Accuracy of the model: 99.94853138923645%"
+    
+    },
+    {
+        "name": "Apple___Cedar_apple_rust",
+        "cause": "Cause of Disease: Fungus Gymnosporangium juniperi-virginianae. Requires junipers as an alternate host.",
+        "cure": "Cure of Disease: Remove nearby juniper hosts. Use resistant varieties and fungicides.\n Accuracy of the model: 99.94853138923645%"
+ 
+    },
+    {
+        "name": "Apple___healthy",
+        "cause": "Cause of Disease: No disease present.",
+        "cure": "Cure of Disease: Maintain good cultural practices for optimal health.\n Accuracy of the model: 99.94853138923645%"
+
+    },
+    {
+        "name": "Background_without_leaves",
+        "cause": "No disease or plant detected.",
+        "cure": "Not applicable.\n Accuracy of the model: 99.94853138923645%"
+    }
+]
