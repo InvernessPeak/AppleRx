@@ -7,13 +7,13 @@ To use this project, you need to download a pre-trained model from the given Goo
 
 ## To use this project run
   
-    ```bash
-   git clone https://github.com/InvernessPeak/AppleRx.git
+  
+  git clone https://github.com/InvernessPeak/AppleRx.git
   
   cd machine-learning-projects
   
   pip install -r requirements.txt
-       ```
+    
     
 
   
