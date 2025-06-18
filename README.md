@@ -6,11 +6,15 @@ Apple Disease Recognition System 🍎
 To use this project, you need to download a pre-trained model from the given Google Drive link and place it in the `models` directory. Follow the steps below to set it up correctly:
 
 ## To use this project run
-  git clone https://github.com/InvernessPeak/AppleRx.git
+  
+    ```bash
+   git clone https://github.com/InvernessPeak/AppleRx.git
   
   cd machine-learning-projects
   
   pip install -r requirements.txt
+       ```
+    
 
   
 ## Steps to Download and Place the Model
